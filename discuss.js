@@ -4,3 +4,10 @@
 	}
 	sayHi();
 })();
+
+(function(){
+       function sayno(){
+             console.log("No,svn!");
+       }
+       sayno();
+})()
